@@ -1,93 +1,74 @@
 <div align="center">
 
+<br/>
+
 # Suyash Vasal Jain
 
-**Full Stack Developer · AI Application Builder · Mobile Developer**
+<p>Full Stack Developer &nbsp;·&nbsp; AI Application Builder &nbsp;·&nbsp; Mobile Developer</p>
 
-*B.Tech CS&IT @ Symbiosis University of Applied Sciences · CGPA 8.83*
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-suyashvjain.web.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://suyashvjain.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suyashvasal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyashvasal)
-[![Email](https://img.shields.io/badge/Email-suyashvasaljain09%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suyashvasaljain09@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-suyashvjain.web.app-000000?style=flat-square&logoColor=white)](https://suyashvjain.web.app)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suyashvasal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyashvasal)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suyashvasaljain09@gmail.com)
+
+<br/>
 
 </div>
 
 ---
 
-I build **AI-powered systems, offline-first mobile apps, and scalable web platforms** — with a strong focus on clean architecture and purposeful design. Currently leading ACM SUAS as Chairperson and building things that ship.
+I build products where **thoughtful engineering and design come together** - AI-powered applications, offline-first mobile apps, and full-stack platforms built to feel as good as they work.
 
----
+Currently exploring the edges of **local LLMs, RAG pipelines, and on-device AI** - not just what's possible, but what's actually useful in real products.
 
-## Projects
+<br/>
 
-### 🧠 NeuralVoid — Offline AI Tutor
-`Flutter` `Gemma 3` `FAISS` `RAG` `FastAPI` `Python`
+## Selected Work
 
-Cross-platform app delivering offline AI tutoring for NCERT Class 10 curriculum. Runs a local Gemma 3 LLM with a RAG pipeline over FAISS for contextual Q&A — no internet required. Includes Hindi–English translation and a streaming chat interface.
+**[NeuralVoid](https://github.com/SuyashVJain/NeuralVoid)** &nbsp;-&nbsp; Offline AI Tutor
+> Cross-platform Flutter app with a local Gemma 3 LLM and FAISS-powered RAG pipeline. No internet. No compromise. Built for students who don't have reliable connectivity.
 
-→ [github.com/SuyashVJain/NeuralVoid](https://github.com/SuyashVJain/NeuralVoid)
+**[VahanVault](https://github.com/SuyashVJain/vahan_vault)** &nbsp;-&nbsp; Vehicle Document Manager
+> Offline-first Flutter app with biometric authentication, structured local storage via Drift, and smart expiry reminders. Everything stored on-device, nothing in the cloud.
 
----
+**[Mission Atlas](https://github.com/yashordK/Mission-Atlas-SIH-)** &nbsp;-&nbsp; Travel Safety Platform &nbsp;`SIH 2025 · Internal Winner`
+> Swadeshi travel platform with blockchain-verified identity, real-time SOS alerts, GPS sharing, and an AI itinerary planner. Built for Smart India Hackathon 2025.
 
-### 🚗 VahanVault — Vehicle Document Manager
-`Flutter` `Drift/SQLite` `Riverpod`
+<br/>
 
-Offline-first Flutter app for securely managing vehicle documents. Features biometric authentication, local structured storage with Drift, expiry tracking, and scheduled local notifications with customizable reminder windows.
+## Stack
 
-→ [github.com/SuyashVJain/vahan_vault](https://github.com/SuyashVJain/vahan_vault)
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · Java · C · SQL |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend** | Node.js · Express.js · FastAPI |
+| **Mobile** | Flutter · React Native |
+| **Databases** | Supabase · MySQL · SQLite · Firebase |
+| **AI / ML** | RAG · FAISS · SentenceTransformers · Ollama · Local LLMs |
+| **Tools** | Figma · Git · Postman |
 
----
+<br/>
 
-### 🛡️ Mission Atlas — Travel Safety Platform *(SIH 2025 Internal Winner)*
-`React Native` `Node.js` `Python` `Supabase` `Blockchain`
+## Currently
 
-Swadeshi travel and safety platform with SOS alerts, real-time GPS sharing, blockchain-verified identity for hotel check-ins, offline maps, and an AI itinerary planner. Built for Smart India Hackathon 2025.
+- Deepening my work in AI application development - RAG systems, local LLMs, real product integrations
+- Sharpening full-stack fundamentals across React, TypeScript, and Node.js
+- Exploring where **design systems and developer tooling** intersect
 
-→ [github.com/yashordK/Mission-Atlas-SIH-](https://github.com/yashordK/Mission-Atlas-SIH-)
+<br/>
 
----
+## Beyond the Code
 
-## Experience
+When I'm not building - I'm into **dancing, music, and design**. I enjoy experimenting with UI/UX ideas, working on visual interfaces, and occasionally helping with branding or creative projects. The overlap between technology and design is where I feel most at home.
 
-**Full Stack Developer Intern** — I-SoftZone, Indore *(May–Jul 2025)*
-
-Built and deployed a multi-branch cloud ERP billing system with React, TypeScript, Node.js and MySQL. Designed REST APIs for GST billing, automated invoice generation, and POS receipt printing.
-
----
-
-## Tech Stack
-
-```
-Languages    JavaScript  TypeScript  Python  Java  C  SQL
-Frontend     React  Next.js  Tailwind CSS  HTML  CSS
-Backend      Node.js  Express.js  FastAPI  REST APIs
-Mobile       Flutter  React Native
-Databases    MySQL  SQLite  Supabase  Firebase
-AI / ML      RAG Pipelines  FAISS  SentenceTransformers  Ollama  Local LLMs
-Tools        Git  Figma  Postman  VS Code  Arduino
-```
-
----
-
-## Recognition
-
-- 🏆 **Smart India Hackathon 2025** — Internal Winner
-- 🎯 **Symbiosis Skill Hackathon 2026** — Top 10 Finalist
-- 📜 SQL (Advanced) · Enterprise Design Thinking Practitioner
-
----
-
-## Leadership
-
-**ACM Student Chapter (SUAS)** — Chairperson *(2025–Present)*  
-**IEEE Computer Society (SUAS)** — Secretary *(2025–Present)*  
-**Synapse Magazine** — Design Associate *(2025–Present)*  
-**CODEC Coding Club** — Media Associate *(2025–Present)*
-
-Organized workshops, coding events, and community initiatives reaching **300+ students** on campus.
+<br/>
 
 ---
 
 <div align="center">
-<sub>Open to internships, collaborations, and building things worth building.</sub>
+
+*Open to internships, collaborations, and products worth building.*
+
 </div>
