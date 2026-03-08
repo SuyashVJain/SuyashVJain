@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Suyash Vasal Jain 👋
 
-<!--
-**SuyashVJain/SuyashVJain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | AI Application Builder | Mobile Developer
 
-Here are some ideas to get you started:
+I build modern applications combining **AI systems, mobile apps, and scalable web platforms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+**Languages**
+
+JavaScript • TypeScript • Java • Python • C • SQL
+
+**Frontend**
+
+React • Next.js • HTML • CSS • Tailwind CSS
+
+**Backend**
+
+Node.js • Express.js • FastAPI
+
+**Mobile**
+
+Flutter • React Native
+
+**Databases**
+
+MySQL • SQLite • Supabase • Firebase
+
+**AI / Systems**
+
+RAG • FAISS • SentenceTransformers • Local LLMs
+
+---
+
+## Highlighted Projects
+
+**NeuralVoid**  
+Offline RAG-based AI tutor for NCERT curriculum.
+
+**VahanVault**  
+Secure Flutter application for managing vehicle documents with biometric authentication.
+
+**Mission Atlas (Seven Shields)**  
+Travel safety platform built for Smart India Hackathon 2025.
+
+---
+
+## Links
+
+Portfolio:  
+https://suyashvjain.web.app
+
+LinkedIn:  
+https://linkedin.com/in/suyashvasal
+
+Email:  
+suyashvasaljain09@gmail.com
