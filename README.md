@@ -13,9 +13,9 @@
 ### Projects
 
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.suyash.rollcall"><img src="./assets/card-rollcall.png" alt="Roll Call: offline-first Android attendance tracker with 100+ Play Store downloads. Java, Room, WorkManager." width="400"></a><a href="https://byline-res.vercel.app"><img src="./assets/card-byline.png" alt="Byline: resume builder that typesets the PDF in your browser, 11 templates. TypeScript, Next.js, Typst WASM." width="400"></a>
+<a href="https://play.google.com/store/apps/details?id=com.suyash.rollcall"><img src="./assets/card-rollcall-v2.png" alt="Roll Call: offline-first Android attendance tracker with 100+ Play Store downloads. Java, Room, WorkManager." width="400"></a><a href="https://byline-res.vercel.app"><img src="./assets/card-byline-v2.png" alt="Byline: resume builder that typesets the PDF in your browser, 11 templates. TypeScript, Next.js, Typst WASM." width="400"></a>
 <br>
-<a href="https://codecgit.vercel.app"><img src="./assets/card-codecgit.png" alt="Codec Git: Git and GitHub course with 34 lessons and an in-browser practice terminal. TypeScript, Next.js, Vitest." width="400"></a><a href="https://prepwise-mocha.vercel.app"><img src="./assets/card-prepwise.png" alt="Prepwise: AI mock interviews generated from your own syllabus PDF. Next.js, FastAPI, FAISS, Supabase." width="400"></a>
+<a href="https://codecgit.vercel.app"><img src="./assets/card-codecgit-v2.png" alt="Codec Git: Git and GitHub course with 34 lessons and an in-browser practice terminal. TypeScript, Next.js, Vitest." width="400"></a><a href="https://prepwise-mocha.vercel.app"><img src="./assets/card-prepwise-v2.png" alt="Prepwise: AI mock interviews generated from your own syllabus PDF. Next.js, FastAPI, FAISS, Supabase." width="400"></a>
 </p>
 
 Also: InboxIQ (Gmail triage, 86.8% accuracy at 0.12 ms per email) and [Mission Atlas](https://github.com/yashordK/Mission-Atlas-SIH-) (tourist safety).
