@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="234" viewBox="0 0 860 234" role="img" aria-label="Codec Git: Git and GitHub course for beginners, built for CODEC. 34 lessons across 6 levels, each with a practice terminal that runs in the browser. Stack: TypeScript · Next.js · Vitest.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .t { font-size: 16px; fill: #6b7785; }
+    @keyframes in { from { opacity: 0; transform: translateY(14px); } }
+    
+    .pr { font-size: 22px; fill: #c9d1d9; }
+    .d { font-size: 20px; fill: #c9d1d9; }
+    .s { font-size: 20px; fill: #38bdf8; }
+    .card { animation: in .6s ease-out 1.5s both; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .r1 { opacity: 1 !important; } }
+  </style>
+  <g class="card"><rect width="860" height="234" rx="12" fill="#0b0f14"/>
+  <path d="M0 40V12a12 12 0 0 1 12-12h836a12 12 0 0 1 12 12V40z" fill="#111821"/>
+  <circle cx="24" cy="20" r="6" fill="#f87171" fill-opacity=".85"/><circle cx="46" cy="20" r="6" fill="#fbbf24" fill-opacity=".85"/><circle cx="68" cy="20" r="6" fill="#34d399" fill-opacity=".85"/>
+  <text class="t" x="430.0" y="26" text-anchor="middle">suyash@github: ~/projects/codec-git</text>
+  <rect x="0.5" y="0.5" width="859" height="233" rx="12" fill="none" stroke="#fff" stroke-opacity=".08"/>
+  <text class="pr" x="32" y="76"><tspan fill="#818cf8">$</tspan> cat codec-git.md</text>
+  <text class="d" x="32" y="108">Git and GitHub course for beginners, built for CODEC. 34</text><text class="d" x="32" y="136">lessons across 6 levels, each with a practice terminal that</text><text class="d" x="32" y="164">runs in the browser.</text>
+  <text class="s" x="32" y="200"><tspan fill="#34d399"># </tspan>TypeScript · Next.js · Vitest</text></g>
+</svg>
