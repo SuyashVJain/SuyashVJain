@@ -31,6 +31,4 @@ Also: InboxIQ (Gmail triage, 86.8% accuracy at 0.12 ms per email) and [Mission A
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,nodejs,fastapi,flutter,supabase&perline=10" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, FastAPI, Flutter, Supabase">
-
-<p align="center"><sub>Open to Summer 2027 internships · suyashvasaljain09@gmail.com</sub></p>
+TypeScript · JavaScript · Python · Java · React · Next.js · Node.js · FastAPI · Flutter · Supabase
