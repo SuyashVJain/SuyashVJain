@@ -4,7 +4,7 @@
 
 Full-stack, Android and applied ML | B.Tech CS&IT, SUAS Indore
 
-<a href="https://suyashvjain.web.app">Portfolio</a> · <a href="https://linkedin.com/in/suyashvasal">LinkedIn</a> · <a href="mailto:suyashvasaljain09@gmail.com">Email</a>
+<a href="https://suyashvjain.web.app">Portfolio</a> · <a href="https://linkedin.com/in/suyashvasal">LinkedIn</a> · <a href="mailto:suyashvasaljain09@gmail.com">Email</a> · <a href="https://github.com/SuyashVJain/SuyashVJain/raw/main/assets/resume.pdf">Resume</a>
 
 </div>
 
@@ -13,6 +13,11 @@ Full-stack, Android and applied ML | B.Tech CS&IT, SUAS Indore
 I'm a CS student (B.Tech CS&IT, 2024–2028, CGPA 8.94) who builds full-stack products, Android apps and applied ML. I'm President of CODEC, the coding club at my university, and I'm open to Summer 2027 software engineering internships.
 
 <div align="center">
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/numbers-mobile.svg">
+  <img src="./assets/numbers.svg" alt="100+ Play Store downloads (Roll Call), 267 unit tests (Roll Call), 34 Git lessons (Codec Git), 11 resume templates (Byline), 5,888 emails classified (InboxIQ)" width="860">
+</picture>
 
 <h3>Projects</h3>
 
