@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" alt="Suyash Vasal Jain"></p>
+<p align="center"><img src="assets/header.svg?v=2" alt="Suyash Vasal Jain"></p>
 
 <p align="center">
 <a href="https://suyashvjain.web.app"><img src="./assets/btn-portfolio.svg" alt="Portfolio: suyashvjain.web.app" width="150"></a>
