@@ -1,4 +1,4 @@
-name: Refresh live sections
+name: Refresh live strip
 
 on:
   schedule:
@@ -16,12 +16,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install requests beautifulsoup4
-      # refresh.py catches per-card failures itself, so one bad API call keeps the other cards.
+      - run: pip install requests
+      # refresh.py handles its own failures, so a bad API call keeps the previous files.
       - run: python scripts/refresh.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh live sections [skip ci]"
-          file_pattern: assets/*.svg
+          file_pattern: assets/live.svg assets/live-mobile.svg

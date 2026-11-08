@@ -1,21 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="262" viewBox="0 0 860 262" role="img" aria-label="Roll Call: Offline-first Android attendance tracker with skip and recovery calculators. On the Play Store with 100+ downloads. 3 home-screen widgets, 267 tests, Room schema migrations from v11 to v14. Stack: Java · Room · WorkManager.">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="242" viewBox="0 0 420 242" role="img" aria-label="Roll Call: Offline-first Android attendance tracker with skip and recovery calculators. On the Play Store with 100+ downloads. 3 home-screen widgets, 267 tests, Room schema migrations from v11 to v14. Stack: Java · Room · WorkManager. live: Google Play.">
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .t { font-size: 16px; fill: #6b7785; }
-    @keyframes in { from { opacity: 0; transform: translateY(14px); } }
-    
-    .pr { font-size: 22px; fill: #c9d1d9; }
-    .d { font-size: 20px; fill: #c9d1d9; }
-    .s { font-size: 20px; fill: #38bdf8; }
-    .card { animation: in .6s ease-out 0.0s both; }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .r1 { opacity: 1 !important; } }
+    .t { font-size: 14.5px; fill: #6b7785; }
+    @keyframes in { from { opacity: 0; transform: translateY(12px); } }
+    .pr { font-size: 14.5px; fill: #c9d1d9; } .d { font-size: 14.5px; fill: #c9d1d9; } .s { font-size: 14.5px; fill: #38bdf8; } .lv { font-size: 14.5px; fill: #34d399; }
+    .card { animation: in .6s ease-out 0.00s both; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <g class="card"><rect width="860" height="262" rx="12" fill="#0b0f14"/>
-  <path d="M0 40V12a12 12 0 0 1 12-12h836a12 12 0 0 1 12 12V40z" fill="#111821"/>
-  <circle cx="24" cy="20" r="6" fill="#f87171" fill-opacity=".85"/><circle cx="46" cy="20" r="6" fill="#fbbf24" fill-opacity=".85"/><circle cx="68" cy="20" r="6" fill="#34d399" fill-opacity=".85"/>
-  <text class="t" x="430.0" y="26" text-anchor="middle">suyash@github: ~/projects/roll-call</text>
-  <rect x="0.5" y="0.5" width="859" height="261" rx="12" fill="none" stroke="#fff" stroke-opacity=".08"/>
-  <text class="pr" x="32" y="76"><tspan fill="#818cf8">$</tspan> cat roll-call.md</text>
-  <text class="d" x="32" y="108">Offline-first Android attendance tracker with skip and</text><text class="d" x="32" y="136">recovery calculators. On the Play Store with 100+ downloads.</text><text class="d" x="32" y="164">3 home-screen widgets, 267 tests, Room schema migrations</text><text class="d" x="32" y="192">from v11 to v14.</text>
-  <text class="s" x="32" y="228"><tspan fill="#34d399"># </tspan>Java · Room · WorkManager</text></g>
+  <rect width="420" height="242" rx="12" fill="#0b0f14"/>
+  <path d="M0 32V12a12 12 0 0 1 12-12h396a12 12 0 0 1 12 12V32z" fill="#111821"/>
+  <circle cx="20" cy="16.0" r="5" fill="#f87171" fill-opacity=".85"/><circle cx="38" cy="16.0" r="5" fill="#fbbf24" fill-opacity=".85"/><circle cx="56" cy="16.0" r="5" fill="#34d399" fill-opacity=".85"/>
+  <text class="t" x="210.0" y="21.0" text-anchor="middle">~/projects/roll-call</text>
+  <rect x="0.5" y="0.5" width="419" height="241" rx="12" fill="none" stroke="#fff" stroke-opacity=".08"/>
+  <g class="card"><text class="pr" x="20" y="62"><tspan fill="#818cf8">$</tspan> cat roll-call.md</text><text class="d" x="20" y="88">Offline-first Android attendance tracker</text><text class="d" x="20" y="108">with skip and recovery calculators. On the</text><text class="d" x="20" y="128">Play Store with 100+ downloads. 3 home-</text><text class="d" x="20" y="148">screen widgets, 267 tests, Room schema</text><text class="d" x="20" y="168">migrations from v11 to v14.</text><text class="s" x="20" y="194"><tspan fill="#34d399">#</tspan> Java · Room · WorkManager</text><text class="lv" x="20" y="216">live: Google Play</text></g>
 </svg>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="40" viewBox="0 0 128 40" role="img" aria-label="portfolio">
-  <style>text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; }</style>
-  <rect x="0.5" y="0.5" width="127" height="39" rx="8" fill="#0b0f14" stroke="#38bdf8" stroke-opacity=".7"/>
-  <text x="64" y="25" text-anchor="middle" fill="#38bdf8">&#8250; portfolio</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="36" viewBox="0 0 128 36" role="img" aria-label="portfolio">
+  <style>text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }</style>
+  <rect x="0.5" y="0.5" width="127" height="35" rx="8" fill="#0b0f14" stroke="#38bdf8" stroke-opacity=".7"/>
+  <text x="64" y="23" text-anchor="middle" fill="#38bdf8">&#8250; portfolio</text>
 </svg>

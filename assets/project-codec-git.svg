@@ -1,21 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="234" viewBox="0 0 860 234" role="img" aria-label="Codec Git: Git and GitHub course for beginners, built for CODEC. 34 lessons across 6 levels, each with a practice terminal that runs in the browser. Stack: TypeScript · Next.js · Vitest.">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="262" viewBox="0 0 420 262" role="img" aria-label="Codec Git: Git and GitHub course for beginners, built for CODEC. 34 lessons across 6 levels, each with a practice terminal that runs in the browser. Stack: TypeScript · Next.js · Vitest. live: codecgit.vercel.app.">
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .t { font-size: 16px; fill: #6b7785; }
-    @keyframes in { from { opacity: 0; transform: translateY(14px); } }
-    
-    .pr { font-size: 22px; fill: #c9d1d9; }
-    .d { font-size: 20px; fill: #c9d1d9; }
-    .s { font-size: 20px; fill: #38bdf8; }
-    .card { animation: in .6s ease-out 1.5s both; }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .r1 { opacity: 1 !important; } }
+    .t { font-size: 14.5px; fill: #6b7785; }
+    @keyframes in { from { opacity: 0; transform: translateY(12px); } }
+    .pr { font-size: 14.5px; fill: #c9d1d9; } .d { font-size: 14.5px; fill: #c9d1d9; } .s { font-size: 14.5px; fill: #38bdf8; } .lv { font-size: 14.5px; fill: #34d399; }
+    .card { animation: in .6s ease-out 1.25s both; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <g class="card"><rect width="860" height="234" rx="12" fill="#0b0f14"/>
-  <path d="M0 40V12a12 12 0 0 1 12-12h836a12 12 0 0 1 12 12V40z" fill="#111821"/>
-  <circle cx="24" cy="20" r="6" fill="#f87171" fill-opacity=".85"/><circle cx="46" cy="20" r="6" fill="#fbbf24" fill-opacity=".85"/><circle cx="68" cy="20" r="6" fill="#34d399" fill-opacity=".85"/>
-  <text class="t" x="430.0" y="26" text-anchor="middle">suyash@github: ~/projects/codec-git</text>
-  <rect x="0.5" y="0.5" width="859" height="233" rx="12" fill="none" stroke="#fff" stroke-opacity=".08"/>
-  <text class="pr" x="32" y="76"><tspan fill="#818cf8">$</tspan> cat codec-git.md</text>
-  <text class="d" x="32" y="108">Git and GitHub course for beginners, built for CODEC. 34</text><text class="d" x="32" y="136">lessons across 6 levels, each with a practice terminal that</text><text class="d" x="32" y="164">runs in the browser.</text>
-  <text class="s" x="32" y="200"><tspan fill="#34d399"># </tspan>TypeScript · Next.js · Vitest</text></g>
+  <rect width="420" height="262" rx="12" fill="#0b0f14"/>
+  <path d="M0 32V12a12 12 0 0 1 12-12h396a12 12 0 0 1 12 12V32z" fill="#111821"/>
+  <circle cx="20" cy="16.0" r="5" fill="#f87171" fill-opacity=".85"/><circle cx="38" cy="16.0" r="5" fill="#fbbf24" fill-opacity=".85"/><circle cx="56" cy="16.0" r="5" fill="#34d399" fill-opacity=".85"/>
+  <text class="t" x="210.0" y="21.0" text-anchor="middle">~/projects/codec-git</text>
+  <rect x="0.5" y="0.5" width="419" height="261" rx="12" fill="none" stroke="#fff" stroke-opacity=".08"/>
+  <g class="card"><text class="pr" x="20" y="62"><tspan fill="#818cf8">$</tspan> cat codec-git.md</text><text class="d" x="20" y="88">Git and GitHub course for beginners, built</text><text class="d" x="20" y="108">for CODEC. 34 lessons across 6 levels,</text><text class="d" x="20" y="128">each with a practice terminal that runs in</text><text class="d" x="20" y="148">the browser.</text><text class="s" x="20" y="174"><tspan fill="#34d399">#</tspan> TypeScript · Next.js · Vitest</text><text class="lv" x="20" y="196">live: codecgit.vercel.app</text></g>
 </svg>
