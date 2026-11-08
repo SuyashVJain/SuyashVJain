@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44" role="img" aria-label="Resume">
-  <rect width="150" height="44" rx="22" fill="#e8502f"/>
-  <g transform="translate(36.5 14.0)" fill="none" stroke="#ffffff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8.5M4.5 7.2L8 10.7l3.5-3.5M2.5 13.5h11"/></g>
-  <text x="60.5" y="27.3" textLength="53" lengthAdjust="spacingAndGlyphs" font-family='-apple-system, "Segoe UI", Helvetica, Arial, sans-serif' font-size="15" font-weight="600" fill="#ffffff">Resume</text>
-</svg>
