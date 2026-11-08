@@ -1,16 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="130" viewBox="0 0 400 130" role="img" aria-label="Live: 4 of 4 sites up">
-  <style>
-    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .t { font-size: 14px; fill: #6b7785; }
-    .ft { font-size: 14px; fill: #6b7785; }
-    @keyframes in { from { opacity: 0; transform: translateY(12px); } }
-    .v { font-size: 15px; } .row { animation: in .5s ease-out both; }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
-  </style>
-  <rect width="400" height="130" rx="12" fill="#0b0f14"/>
-  <path d="M0 32V12a12 12 0 0 1 12-12h376a12 12 0 0 1 12 12V32z" fill="#111821"/>
-  <circle cx="20" cy="16.0" r="5" fill="#f87171" fill-opacity=".85"/><circle cx="38" cy="16.0" r="5" fill="#fbbf24" fill-opacity=".85"/><circle cx="56" cy="16.0" r="5" fill="#34d399" fill-opacity=".85"/>
-  <text class="t" x="200.0" y="21.0" text-anchor="middle">suyash@github: ~/live</text>
-  <rect x="0.5" y="0.5" width="399" height="129" rx="12" fill="none" stroke="#fff" stroke-opacity=".08"/>
-  <g class="row" style="animation-delay:0.20s"><circle cx="24" cy="56" r="6" fill="#34d399"/><text class="v" x="38" y="61" fill="#c9d1d9">Byline</text></g><g class="row" style="animation-delay:0.35s"><circle cx="204" cy="56" r="6" fill="#34d399"/><text class="v" x="218" y="61" fill="#c9d1d9">Codec Git</text></g><g class="row" style="animation-delay:0.50s"><circle cx="24" cy="84" r="6" fill="#34d399"/><text class="v" x="38" y="89" fill="#c9d1d9">Prepwise</text></g><g class="row" style="animation-delay:0.65s"><circle cx="204" cy="84" r="6" fill="#34d399"/><text class="v" x="218" y="89" fill="#c9d1d9">portfolio</text></g><text class="ft" x="376" y="118" text-anchor="end">last refreshed 2026-11-08 19:59 UTC</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="132" viewBox="0 0 400 132" role="img" aria-label="Live status: Byline up, 531 ms, Codec Git up, 422 ms, Prepwise up, 1078 ms, Portfolio up, 282 ms. Last refreshed 2026-11-08 20:05 UTC.">
+  <style>text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 15px; fill: #e6edf3; } .d { fill: #8b98a5; }</style>
+  <rect x="0.5" y="0.5" width="399" height="131" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="24" cy="31" r="6" fill="#3fb950"/><text x="40" y="36">Byline <tspan class="d">· 531 ms</tspan></text><circle cx="214" cy="31" r="6" fill="#3fb950"/><text x="230" y="36">Codec Git <tspan class="d">· 422 ms</tspan></text><circle cx="24" cy="61" r="6" fill="#3fb950"/><text x="40" y="66">Prepwise <tspan class="d">· 1078 ms</tspan></text><circle cx="214" cy="61" r="6" fill="#3fb950"/><text x="230" y="66">Portfolio <tspan class="d">· 282 ms</tspan></text><text class="d" x="376" y="108" text-anchor="end">last refreshed 2026-11-08 20:05 UTC</text>
 </svg>
