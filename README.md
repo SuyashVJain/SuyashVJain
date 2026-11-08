@@ -18,20 +18,18 @@
 
 ### By the numbers
 
-<p align="center">100+ Play Store downloads · 267 unit tests in Roll Call · 34 Git lessons · 11 resume templates · 5,888 emails classified</p>
+<p align="center"><b>100+</b> Play Store downloads · <b>267</b> unit tests in Roll Call · <b>34</b> Git lessons · <b>11</b> resume templates · <b>5,888</b> emails classified</p>
 
 ### Projects
 
-- **Roll Call**: offline-first Android attendance tracker, 100+ downloads on the Play Store. *Java, Room, WorkManager*
-- **Byline**: resume builder that typesets the PDF in your browser, with 11 templates. *TypeScript, Next.js, Typst WASM* · [Live](https://byline-res.vercel.app)
-- **Codec Git**: Git and GitHub course with 34 lessons and an in-browser practice terminal. *TypeScript, Next.js, Vitest* · [Live](https://codecgit.vercel.app)
-- **[Prepwise](https://github.com/SuyashVJain/prepwise)**: AI mock interviews generated from your own syllabus PDF. *Next.js, FastAPI, FAISS, Supabase* · [Live](https://prepwise-mocha.vercel.app)
+- **[Roll Call](https://play.google.com/store/apps/details?id=com.suyash.rollcall)**: offline-first Android attendance tracker, 100+ downloads on the Play Store. *Java, Room, WorkManager*
+- **[Byline](https://byline-res.vercel.app)**: resume builder that typesets the PDF in your browser, with 11 templates. *TypeScript, Next.js, Typst WASM*
+- **[Codec Git](https://codecgit.vercel.app)**: Git and GitHub course with 34 lessons and an in-browser practice terminal. *TypeScript, Next.js, Vitest*
+- **[Prepwise](https://prepwise-mocha.vercel.app)**: AI mock interviews generated from your own syllabus PDF. *Next.js, FastAPI, FAISS, Supabase*
 - **InboxIQ**: Gmail triage assistant (ML models, 8 categories, 86.8% accuracy). *Python, FastAPI, scikit-learn, Ollama, Streamlit*
 
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,nodejs,fastapi,flutter,supabase&perline=10" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, FastAPI, Flutter, Supabase">
 
-### Connect
-
-[Portfolio](https://suyashvjain.web.app) · [LinkedIn](https://linkedin.com/in/suyashvasal) · [Email](mailto:suyashvasaljain09@gmail.com) (suyashvasaljain09@gmail.com)
+<p align="center"><sub>Open to Summer 2027 internships · suyashvasaljain09@gmail.com</sub></p>
