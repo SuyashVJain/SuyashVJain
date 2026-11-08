@@ -22,7 +22,7 @@ Also: InboxIQ (Gmail triage, 86.8% accuracy at 0.12 ms per email) and [Mission A
 
 ### Experience and highlights
 
-- Machine Learning Intern, Samanviti (Jun–Jul 2026)
+- Machine Learning Engineer Intern, Samanviti (Jun–Jul 2026)
 - Full Stack Intern, I-SoftZone (May–Jul 2025): backend for a multi-branch retail ERP
 - President, CODEC Coding Club (2026–present); ACM Student Chapter Chairperson, SUAS (2025–26); IEEE SUAS Membership Development Chair (2026–present)
 - Smart India Hackathon 2025: internal round winner (Mission Atlas)
