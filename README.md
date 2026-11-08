@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-suyashvjain.web.app-000000?style=flat-square&labelColor=0e0e0e)](https://suyashvjain.web.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-000000?style=flat-square&labelColor=0e0e0e)](https://suyashvjain.web.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suyashvasal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyashvasal)&nbsp;
 [![Email](https://img.shields.io/badge/Email-get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suyashvasaljain09@gmail.com)
 
