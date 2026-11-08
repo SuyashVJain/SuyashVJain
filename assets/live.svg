@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="84" viewBox="0 0 860 84" role="img" aria-label="Live status: Byline up, 531 ms, Codec Git up, 422 ms, Prepwise up, 1078 ms, Portfolio up, 282 ms. Last refreshed 2026-11-08 20:05 UTC.">
-  <style>text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 15px; fill: #e6edf3; } .d { fill: #8b98a5; }</style>
-  <rect x="0.5" y="0.5" width="859" height="83" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <circle cx="28" cy="29" r="6" fill="#3fb950"/><text x="44" y="34">Byline <tspan class="d">· 531 ms</tspan></text><circle cx="236" cy="29" r="6" fill="#3fb950"/><text x="252" y="34">Codec Git <tspan class="d">· 422 ms</tspan></text><circle cx="444" cy="29" r="6" fill="#3fb950"/><text x="460" y="34">Prepwise <tspan class="d">· 1078 ms</tspan></text><circle cx="652" cy="29" r="6" fill="#3fb950"/><text x="668" y="34">Portfolio <tspan class="d">· 282 ms</tspan></text><text class="d" x="832" y="64" text-anchor="end">last refreshed 2026-11-08 20:05 UTC</text>
-</svg>
