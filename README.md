@@ -22,12 +22,13 @@
 
 ### Projects
 
-- **[Roll Call](https://play.google.com/store/apps/details?id=com.suyash.rollcall)**: offline-first Android attendance tracker, 100+ downloads on the Play Store.<br>*Java, Room, WorkManager*
-- **[Byline](https://byline-res.vercel.app)**: resume builder that typesets the PDF in your browser, with 11 templates.<br>*TypeScript, Next.js, Typst WASM*
-- **[Codec Git](https://codecgit.vercel.app)**: Git and GitHub course with 34 lessons and an in-browser practice terminal.<br>*TypeScript, Next.js, Vitest*
-- **[Prepwise](https://prepwise-mocha.vercel.app)**: AI mock interviews generated from your own syllabus PDF.<br>*Next.js, FastAPI, FAISS, Supabase*
-- **InboxIQ**: Gmail triage assistant, 8 categories, 86.8% accuracy at 0.12 ms per email vs 87.5% at 1.6 ms for the heavier model.<br>*Python, FastAPI, scikit-learn, Ollama, Streamlit*
-- **[Mission Atlas](https://github.com/yashordK/Mission-Atlas-SIH-)**: tourist safety app, internal round winner at Smart India Hackathon 2025.<br>*React Native, Blockchain, AI*
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.suyash.rollcall"><img src="./assets/card-rollcall.png" alt="Roll Call: offline-first Android attendance tracker with 100+ Play Store downloads. Java, Room, WorkManager." width="400"></a><a href="https://byline-res.vercel.app"><img src="./assets/card-byline.png" alt="Byline: resume builder that typesets the PDF in your browser, 11 templates. TypeScript, Next.js, Typst WASM." width="400"></a>
+<br>
+<a href="https://codecgit.vercel.app"><img src="./assets/card-codecgit.png" alt="Codec Git: Git and GitHub course with 34 lessons and an in-browser practice terminal. TypeScript, Next.js, Vitest." width="400"></a><a href="https://prepwise-mocha.vercel.app"><img src="./assets/card-prepwise.png" alt="Prepwise: AI mock interviews generated from your own syllabus PDF. Next.js, FastAPI, FAISS, Supabase." width="400"></a>
+</p>
+
+Also: InboxIQ (Gmail triage, 86.8% accuracy at 0.12 ms per email) and [Mission Atlas](https://github.com/yashordK/Mission-Atlas-SIH-) (tourist safety, SIH 2025 internal winner).
 
 ### Experience
 
