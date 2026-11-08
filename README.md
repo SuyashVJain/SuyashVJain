@@ -1,10 +1,11 @@
 <div align="center">
 
-<h1>Suyash Vasal Jain</h1>
+<img src="assets/banner.png" width="100%" alt="Suyash Vasal Jain - Full-stack, Android, Applied ML">
 
-Full-stack, Android and applied ML | B.Tech CS&IT, SUAS Indore
-
-<a href="https://suyashvjain.web.app">Portfolio</a> · <a href="https://linkedin.com/in/suyashvasal">LinkedIn</a> · <a href="mailto:suyashvasaljain09@gmail.com">Email</a> · <a href="https://github.com/SuyashVJain/SuyashVJain/raw/main/assets/resume.pdf">Resume</a>
+<a href="https://suyashvjain.web.app"><img src="./assets/btn-portfolio.svg" alt="Portfolio: suyashvjain.web.app" width="150"></a>
+<a href="https://linkedin.com/in/suyashvasal"><img src="./assets/btn-linkedin.svg" alt="LinkedIn: suyashvasal" width="150"></a>
+<a href="mailto:suyashvasaljain09@gmail.com"><img src="./assets/btn-email.svg" alt="Email: suyashvasaljain09@gmail.com" width="150"></a>
+<a href="https://github.com/SuyashVJain/SuyashVJain/raw/main/assets/resume.pdf"><img src="./assets/btn-resume.svg" alt="Download resume (PDF)" width="150"></a>
 
 </div>
 
