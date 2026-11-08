@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44" role="img" aria-label="Portfolio">
+  <style>
+    .o { fill: none; stroke: #8b949e; } .i { stroke: #c9d1d9; } .f { fill: #c9d1d9; stroke: none; } .l { fill: #c9d1d9; }
+    @media (prefers-color-scheme: light) { .o { stroke: #6e7781; } .i { stroke: #1f2328; } .f { fill: #1f2328; } .l { fill: #1f2328; } }
+  </style>
+  <rect x="0.5" y="0.5" width="149" height="43" rx="21.5" class="o" stroke-width="1"/>
+  <g class="i" transform="translate(37.0 14.0)" fill="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="6.5"/><ellipse cx="8" cy="8" rx="2.8" ry="6.5"/><path d="M1.5 8h13"/></g>
+  <text x="61.0" y="27.0" textLength="52" lengthAdjust="spacingAndGlyphs" font-family='-apple-system, "Segoe UI", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" class="l">Portfolio</text>
+</svg>

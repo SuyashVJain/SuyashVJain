@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44" role="img" aria-label="Resume">
+  <style>
+    .o { fill: none; stroke: #8b949e; } .i { stroke: #c9d1d9; } .f { fill: #c9d1d9; stroke: none; } .l { fill: #c9d1d9; }
+    @media (prefers-color-scheme: light) { .o { stroke: #6e7781; } .i { stroke: #1f2328; } .f { fill: #1f2328; } .l { fill: #1f2328; } }
+  </style>
+  <rect x="0.5" y="0.5" width="149" height="43" rx="21.5" class="o" stroke-width="1"/>
+  <g class="i" transform="translate(39.0 14.0)" fill="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8.5M4.5 7.2L8 10.7l3.5-3.5M2.5 13.5h11"/></g>
+  <text x="63.0" y="27.0" textLength="48" lengthAdjust="spacingAndGlyphs" font-family='-apple-system, "Segoe UI", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" class="l">Resume</text>
+</svg>
