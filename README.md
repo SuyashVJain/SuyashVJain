@@ -1,9 +1,9 @@
 <p align="center"><img src="assets/header.svg?v=2" alt="Suyash Vasal Jain"></p>
 
 <p align="center">
-<a href="https://suyashvjain.web.app"><img src="./assets/btn-portfolio.svg" alt="Portfolio: suyashvjain.web.app" width="150"></a>
-<a href="https://linkedin.com/in/suyashvasal"><img src="./assets/btn-linkedin.svg" alt="LinkedIn: suyashvasal" width="150"></a>
-<a href="https://github.com/SuyashVJain/SuyashVJain/raw/main/assets/resume.pdf"><img src="./assets/btn-resume.svg" alt="Download resume (PDF)" width="150"></a>
+<a href="https://suyashvjain.web.app"><img src="./assets/btn-portfolio.svg?v=2" alt="Portfolio: suyashvjain.web.app" width="150"></a>
+<a href="https://linkedin.com/in/suyashvasal"><img src="./assets/btn-linkedin.svg?v=2" alt="LinkedIn: suyashvasal" width="150"></a>
+<a href="https://github.com/SuyashVJain/SuyashVJain/raw/main/assets/resume.pdf"><img src="./assets/btn-resume.svg?v=2" alt="Download resume (PDF)" width="150"></a>
 </p>
 
 <p align="center">Open to Summer 2027 internships.</p>
